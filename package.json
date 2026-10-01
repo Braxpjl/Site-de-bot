@@ -1,5 +1,7 @@
 {
+  "name": "bot-claude",
+  "version": "1.0.0",
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.34.0"
+    "@anthropic-ai/sdk": "^0.32.0"
   }
 }
